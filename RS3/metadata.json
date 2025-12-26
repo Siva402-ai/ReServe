@@ -1,0 +1,7 @@
+{
+  "name": "ReServe Copy6",
+  "description": "A full-stack platform connecting food donors with NGOs to reduce waste and fight hunger. Features AI-powered freshness prediction and geolocation tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
